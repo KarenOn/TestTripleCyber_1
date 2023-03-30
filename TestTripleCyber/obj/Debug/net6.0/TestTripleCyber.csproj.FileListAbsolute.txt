@@ -1,0 +1,15 @@
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\bin\Debug\net6.0\TestTripleCyber.exe
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\bin\Debug\net6.0\TestTripleCyber.deps.json
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\bin\Debug\net6.0\TestTripleCyber.runtimeconfig.json
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\bin\Debug\net6.0\TestTripleCyber.dll
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\bin\Debug\net6.0\TestTripleCyber.pdb
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.csproj.AssemblyReference.cache
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.AssemblyInfoInputs.cache
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.AssemblyInfo.cs
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.dll
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\refint\TestTripleCyber.dll
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.pdb
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\TestTripleCyber.genruntimeconfig.cache
+C:\Users\l\Documents\PROGRAMACION KAREN\TestTripleCyber\TestTripleCyber\obj\Debug\net6.0\ref\TestTripleCyber.dll
